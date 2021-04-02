@@ -1,0 +1,10 @@
+{
+  "name": "Remind Me",
+  "description": "Allows you to set a reminder to display at a specified time.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Liam The Protogen",
+    "id": "441384103946878987"
+  }
+}

@@ -5,8 +5,7 @@ import { Clickable, Text, Icon, Tooltip } from "@vizality/components";
 export default class ReminderRow extends Component {
   render() {
     return (
-      <Clickable className="roleRow-30TwGe">
-        <div className="dragIcon-I74byJ dragSpacing-3xep_M"></div>
+      <Clickable className="roleRow-30TwGe vz-remind-me-reminders-row">
         <div className="roleNameContainer-2o4-eI roleNameSpacing-XtjbtV">
           <Icon
             className={`shield-1-PEa- ${Text.Colors.MUTED}`}

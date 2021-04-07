@@ -1,0 +1,11 @@
+@use '@vizality' as *;
+
+.vz-remind-me-reminders-row {
+  margin-left: -8px !important;
+  padding-left: 8px;
+}
+
+.vz-remind-me-reminders-row:before,
+.vz-remind-me-reminders-row:last-child:after {
+  left: 8px !important;
+}
